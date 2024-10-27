@@ -2,103 +2,103 @@
 Peashooter
 
 [PEASHOOTER_TOOLTIP]
-Shoots peas at the enemy
+Menembakan biji
 
 [SUNFLOWER]
 Sunflower
 
 [SUNFLOWER_TOOLTIP]
-Gives you additional sun
+Memberikan Matahari
 
 [CHERRY_BOMB]
 Cherry Bomb
 
 [CHERRY_BOMB_TOOLTIP]
-Blows up all zombies in an area
+Meledakan zombie disekitarnys
 
 [WALL_NUT]
 Wall-nut
 
 [WALL_NUT_TOOLTIP]
-Blocks off zombies and protects your other plants
+Memblokir zombie dan melindungi tanaman
 
 [REPEATER]
 Repeater
 
 [REPEATER_TOOLTIP]
-Fires two peas at a time
+Menembakan dua biji disaat bersamaan
 
 [POTATO_MINE]
 Potato Mine
 
 [POTATO_MINE_TOOLTIP]
-Explodes on contact, but takes time to arm itself
+Meledak saat disentuh tapi tunggu dulu
 
 [SNOW_PEA]
 Snow Pea
 
 [SNOW_PEA_TOOLTIP]
-Shoots frozen peas that damage and slow the enemy
+Menembakan biji es yang dapat melukai dan melambatkan
 
 [CHOMPER]
 Chomper
 
 [CHOMPER_TOOLTIP]
-Devours a zombie whole, but is vulnerable while chewing
+Memakan zombie didepannya, tapi rentan saat mengunyah
 
 [PUFF_SHROOM]
 Puff-shroom
 
 [PUFF_SHROOM_TOOLTIP]
-Shoots short-ranged spores at the enemy
+Menembakan gelembung jarak dekat
 
 [SUN_SHROOM]
 Sun-shroom
 
 [SUN_SHROOM_TOOLTIP]
-Gives small sun at first and normal sun later
+Awalnya kecil setelah itu besar
 
 [FUME_SHROOM]
 Fume-shroom
 
 [FUME_SHROOM_TOOLTIP]
-Shoots fumes that can pass through screen doors
+Serangannya BIsa menembus pintu
 
 [GRAVE_BUSTER]
 Grave Buster
 
 [GRAVE_BUSTER_TOOLTIP]
-Plant it on a grave to remove the grave
+Tanam di nisan untuk menghilangkannya
 
 [HYPNO_SHROOM]
 Hypno-shroom
 
 [HYPNO_SHROOM_TOOLTIP]
-Makes a zombie fight for you
+Membuat zombie bertarung untukmu
 
 [SCAREDY_SHROOM]
 Scaredy-shroom
 
 [SCAREDY_SHROOM_TOOLTIP]
-Long-ranged shooter that hides when enemies get near it
+Serangan jarak jauh, sembunyi saat dekat
 
 [ICE_SHROOM]
 Ice-shroom
 
 [ICE_SHROOM_TOOLTIP]
-Temporarily immobilizes all zombies on the screen
+Membekukan semua zombie sementara
 
 [DOOM_SHROOM]
 Doom-shroom
 
 [DOOM_SHROOM_TOOLTIP]
-Destroys a large area, leaving a crater in its wake
+Efek ledakan seluruh area tapi menciptakan kawa dibawahnya
 
 [LILY_PAD]
 Lily Pad
 
 [LILY_PAD_TOOLTIP]
-Lets you plant non-aquatic plants on top of it
+Kamu dapat meletakan tanaman darat diatasnya
 
 [SQUASH]
 Squash
