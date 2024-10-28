@@ -32,7 +32,7 @@ Menembakan dua biji disaat bersamaan
 Potato Mine
 
 [POTATO_MINE_TOOLTIP]
-Meledak saat disentuh tapi tunggu dulu
+Meledak saat disentuh tapi menunggu dulu
 
 [SNOW_PEA]
 Snow Pea
@@ -62,7 +62,7 @@ Awalnya kecil setelah itu besar
 Fume-shroom
 
 [FUME_SHROOM_TOOLTIP]
-Serangannya BIsa menembus pintu
+Serangannya bisa menembus pintu
 
 [GRAVE_BUSTER]
 Grave Buster
@@ -134,13 +134,13 @@ Pops tires and hurts zombies that step on it
 Torchwood
 
 [TORCHWOOD_TOOLTIP]
-Peas that pass through it turn into fireballs
+biji bisa melewatinya dan menjadi bola api
 
 [TALL_NUT]
 Tall-nut
 
 [TALL_NUT_TOOLTIP]
-Heavy-duty wall that can't be vaulted over
+Sangat berat, dan tidak ada yang dapat lewat diatasnya
 
 [SEA_SHROOM]
 Sea-shroom
