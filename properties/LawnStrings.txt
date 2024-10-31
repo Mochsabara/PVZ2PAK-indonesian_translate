@@ -14,7 +14,7 @@ Memberikan Matahari
 Cherry Bomb
 
 [CHERRY_BOMB_TOOLTIP]
-Meledakan zombie disekitarnys
+Meledakan zombie disekitarnya
 
 [WALL_NUT]
 Wall-nut
@@ -26,7 +26,7 @@ Memblokir zombie dan melindungi tanaman
 Repeater
 
 [REPEATER_TOOLTIP]
-Menembakan dua biji disaat bersamaan
+Menembakan dua kacang disaat bersamaan
 
 [POTATO_MINE]
 Potato Mine
@@ -38,7 +38,7 @@ Meledak saat disentuh tapi menunggu dulu
 Snow Pea
 
 [SNOW_PEA_TOOLTIP]
-Menembakan biji es yang dapat melukai dan melambatkan
+Menembakan kacang es yang dapat melukai dan melambatkan
 
 [CHOMPER]
 Chomper
@@ -92,7 +92,7 @@ Membekukan semua zombie sementara
 Doom-shroom
 
 [DOOM_SHROOM_TOOLTIP]
-Efek ledakan seluruh area tapi menciptakan kawa dibawahnya
+Efek ledakan seluruh area tapi menciptakan bekas dibawahnya
 
 [LILY_PAD]
 Lily Pad
@@ -104,207 +104,207 @@ Kamu dapat meletakan tanaman darat diatasnya
 Squash
 
 [SQUASH_TOOLTIP]
-Squashes zombies
+Blammm...
 
 [THREEPEATER]
 Threepeater
 
 [THREEPEATER_TOOLTIP]
-Shoots peas in three lanes
+Menembakan kacang 3 jalur
 
 [TANGLE_KELP]
 Tangle Kelp
 
 [TANGLE_KELP_TOOLTIP]
-Aquatic plant that pulls a zombie underwater
+Tanaman air yang menenggelamkan zombie
 
 [JALAPENO]
 Jalapeno
 
 [JALAPENO_TOOLTIP]
-Destroys an entire lane of zombies
+Membakar zombie sepanjang jalur
 
 [SPIKEWEED]
 Spikeweed
 
 [SPIKEWEED_TOOLTIP]
-Pops tires and hurts zombies that step on it
+Meledakan ban dan melukai zombie diatasnya
 
 [TORCHWOOD]
 Torchwood
 
 [TORCHWOOD_TOOLTIP]
-biji bisa melewatinya dan menjadi bola api
+Kacang bisa melewatinya dan menjadi bola api
 
 [TALL_NUT]
 Tall-nut
 
 [TALL_NUT_TOOLTIP]
-Sangat berat, dan tidak ada yang dapat lewat diatasnya
+Sangat besar, tidak ada yang bisa melewatiya
 
 [SEA_SHROOM]
 Sea-shroom
 
 [SEA_SHROOM_TOOLTIP]
-Aquatic plant that shoots short-ranged spores
+sama kayak Puff-Shroom bedanya di air
 
 [PLANTERN]
 Plantern
 
 [PLANTERN_TOOLTIP]
-Lights up an area, letting you see through fog
+Menerangkan area dan menghilangkan kabut
 
 [CACTUS]
 Cactus
 
 [CACTUS_TOOLTIP]
-Shoots spikes that can pop balloons
+Menembakan duri dan meletuskan balon
 
 [BLOVER]
 Blover
 
 [BLOVER_TOOLTIP]
-Blows away all balloon zombies and fog
+Meniup kabut dan zombie balon
 
 [SPLIT_PEA]
 Split Pea
 
 [SPLIT_PEA_TOOLTIP]
-Shoots peas forward and backwards
+Menembak depan dan belakang
 
 [STARFRUIT]
 Starfruit
 
 [STARFRUIT_TOOLTIP]
-Shoots stars in 5 directions
+Menembakan bintang ke 5 arah
 
 [PUMPKIN]
 Pumpkin
 
 [PUMPKIN_TOOLTIP]
-Protects plants that are within its shell
+Sebagai pelindung tanaman didalamnya
 
 [MAGNET_SHROOM]
 Magnet-shroom
 
 [MAGNET_SHROOM_TOOLTIP]
-Removes helmets and other metal objects from zombies
+Menghilangkan objek metal di zombie
 
 [CABBAGE_PULT]
 Cabbage-pult
 
 [CABBAGE_PULT_TOOLTIP]
-Hurls cabbages at the enemy
+Pelempar kubis
 
 [FLOWER_POT]
 Flower Pot
 
 [FLOWER_POT_TOOLTIP]
-Lets you plant on the roof
+Membantumu menanam di atap
 
 [KERNEL_PULT]
 Kernel-pult
 
 [KERNEL_PULT_TOOLTIP]
-Flings corn kernels and butter at zombies
+Melempar jagung dan Mentega
 
 [GARLIC]
 Garlic
 
 [GARLIC_TOOLTIP]
-Diverts zombies into other lanes
+Memindahkan zombie ke jalur lain
 
 [UMBRELLA_LEAF]
 Umbrella Leaf
 
 [UMBRELLA_LEAF_TOOLTIP]
-Protects nearby plants from bungees and catapults
+Melindungi tanaman dari bungees dan catapults
 
 [MARIGOLD]
 Marigold
 
 [MARIGOLD_TOOLTIP]
-Gives you silver and gold coins
+Memberi uang dan emas
 
 [MELON_PULT]
 Melon-pult
 
 [MELON_PULT_TOOLTIP]
-Does heavy damage to groups of zombies
+Memberikan kerusakan besar ke gerombolan zombie
 
 [GATLING_PEA]
 Gatling Pea
 
 [GATLING_PEA_TOOLTIP]
-Shoots four peas at a time
-(requires repeater)
+Menembakan 4 kacang disaat bersamaan
+(membutuhkan repeater)
 
 [TWIN_SUNFLOWER]
 Twin Sunflower
 
 [TWIN_SUNFLOWER_TOOLTIP]
-Gives twice as much sun as a sunflower
-(requires sunflower)
+Memberikan 2 matahari disaat bersamaan
+(membutuhkan sunflower)
 
 [GLOOM_SHROOM]
 Gloom-shroom
 
 [GLOOM_SHROOM_TOOLTIP]
-Releases heavy fumes in an area around itself
-(requires fume-shroom)
+Mengeluarkan gelembung disekitarnya
+(membutuhkan fume-shroom)
 
 [CATTAIL]
 Cattail
 
 [CATTAIL_TOOLTIP]
-Attacks any lane and shoots down balloon zombies
-(requires lily pad)
+Menyerang segala arah dan meletuskan balon
+(membutuhkan lily pad)
 
 [WINTER_MELON]
 Winter Melon
 
 [WINTER_MELON_TOOLTIP]
-Does heavy damage and slows groups of zombies
-(requires melon-pult)
+Serangan kuat dan melambatkan zombie
+(membutuhkan melon-pult)
 
 [GOLD_MAGNET]
 Gold Magnet
 
 [GOLD_MAGNET_TOOLTIP]
-Collects coins and diamonds for you
-(requires magnet-shroom)
+Mengumpulkan koin dan permata
+(membutuhkan magnet-shroom)
 
 [SPIKEROCK]
 Spikerock
 
 [SPIKEROCK_TOOLTIP]
-Pops multiple tires and damages zombies that walk over it
-(requires spikeweed)
+Spikewood, cuma lebih kuat
+(membutuhkan spikeweed)
 
 [COB_CANNON]
 Cob Cannon
 
 [COB_CANNON_TOOLTIP]
-Click to launch deadly cobs of corn
-(requires 2 kernel-pults)
+Tekan untuk meluncurkan jagung mematikan
+(membutuhkan 2 kernel-pults)
 
 [IMITATER]
 Imitater
 
 [IMITATER_TOOLTIP]
-Lets you have two of the same plant
+Dua tanaman disaat bersamaan
 
 [COFFEE_BEAN]
 Coffee Bean
 
 [COFFEE_BEAN_TOOLTIP]
-Plant it on a mushroom to wake it up
+Tanam dijamur untuk membangunkannya
 
 [EXPLODE_O_NUT]
 Explode-o-nut
 
 [EXPLODE_O_NUT_TOOLTIP]
-Explodes on contact
+Meledak saat disentuh
 
 [GIANT_WALLNUT]
 Giant Wall-nut
@@ -1979,28 +1979,28 @@ recharging...
 not enough sun
 
 [REQUIRES_REPEATER]
-requires repeater
+membutuhkan repeater
 
 [REQUIRES_MELONPULT]
-requires melon-pult
+membutuhkan melon-pult
 
 [REQUIRES_SUNFLOWER]
-requires sunflower
+membutuhkan sunflower
 
 [REQUIRES_SPIKEWEED]
-requires spikeweed
+membutuhkan spikeweed
 
 [REQUIRES_KERNELPULTS]
-requires 2 kernel-pults
+membutuhkan 2 kernel-pults
 
 [REQUIRES_MAGNETSHROOM]
-requires magnet-shroom
+membutuhkan magnet-shroom
 
 [REQUIRES_FUMESHROOM]
-requires fume-shroom
+membutuhkan fume-shroom
 
 [REQUIRES_LILY_PAD]
-requires lily pad
+membutuhkan lily pad
 
 [WAITING_TO_REFRESH]
 waiting to refresh
